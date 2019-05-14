@@ -5,5 +5,5 @@ commit:
 	git commit -m "Update"
 
 push: 
-	git push -u publicorigin master
+	git push -u origin master
 
